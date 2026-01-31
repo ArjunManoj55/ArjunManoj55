@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Arjun Manoj
 
-<!--
-**ArjunManoj55/ArjunManoj55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building fast, scalable, and SEO-friendly web applications using modern web technologies.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend:** React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, Webflow  
+- **State & Tools:** Redux, Zustand, Firebase, Git  
+- **Real-time & Media:** WebSockets, WebRTC  
+- **UI/UX:** Figma, Adobe XD, Wireframing, Prototyping  
+- **Backend (Learning):** Node.js, Express.js, MongoDB  
+- **Other:** Responsive Design, SEO Optimization, Performance Optimization, Vercel Deployment  
+ 
+### 🚀 Owned Websites
+- https://simpleimageresizer.in  (10k+ useers in 3 months)
+- https://www.keralafood.in  (under development)
 
-- 🔭 I’m currently working on ...,
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### 🎓 Education
+Bachelor’s Degree in Computer Science — University of Calicut
