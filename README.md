@@ -11,7 +11,7 @@ Frontend Developer focused on building fast, scalable, and SEO-friendly web appl
 - **Other:** Responsive Design, SEO Optimization, Performance Optimization, Vercel Deployment  
  
 ### 🚀 Owned Websites
-- https://simpleimageresizer.in  (10k+ useers in 3 months)
+- https://simpleimageresizer.in  (10k+ users in 3 months)
 - https://www.keralafood.in  (under development)
 
  ### 🎓 Education
