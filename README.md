@@ -4,7 +4,7 @@ Freelance Frontend Developer focused on building fast, scalable, and SEO-friendl
 
 ### 🛠 Tech Stack
 - **Frontend:** React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, Webflow  
-- **State & Tools:** Redux, Zustand, Firebase, Git  
+- **State & Tools:** Redux, Zustand, Firebase, Supabase, Git  
 - **Real-time & Media:** WebSockets, WebRTC  
 - **UI/UX:** Figma, Adobe XD, Wireframing, Prototyping  
 - **Backend (Learning):** Node.js, Express.js, MongoDB  
